@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{17AEEFFB-1F13-4181-9A21-5A4F535A5108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPFunctionApp1", "FunctionApp1\CPFunctionApp1.csproj", "{17AEEFFB-1F13-4181-9A21-5A4F535A5108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
